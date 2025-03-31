@@ -1,10 +1,10 @@
 # Laravel MySQL Move Column
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Tests](https://github.com/daniel-de-wit/laravel-mysql-move-column/actions/workflows/tests.yml/badge.svg)](https://github.com/daniel-de-wit/laravel-mysql-move-column/actions/workflows/tests.yml)
-[![Coverage Status](https://coveralls.io/repos/github/daniel-de-wit/laravel-mysql-move-column/badge.svg?branch=main&kill_cache=1)](https://coveralls.io/github/daniel-de-wit/laravel-mysql-move-column?branch=main)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/daniel-de-wit/laravel-mysql-move-column.svg?style=flat-square)](https://packagist.org/packages/daniel-de-wit/laravel-mysql-move-column)
-[![Total Downloads](https://img.shields.io/packagist/dt/daniel-de-wit/laravel-mysql-move-column.svg?style=flat-square)](https://packagist.org/packages/daniel-de-wit/laravel-mysql-move-column)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square&cache-control=no-cache)](LICENSE.md)
+[![Tests](https://github.com/daniel-de-wit/laravel-mysql-move-column/actions/workflows/tests.yml/badge.svg?cache-control=no-cache)](https://github.com/daniel-de-wit/laravel-mysql-move-column/actions/workflows/tests.yml)
+[![Coverage Status](https://coveralls.io/repos/github/daniel-de-wit/laravel-mysql-move-column/badge.svg?branch=main&cache-control=no-cache)](https://coveralls.io/github/daniel-de-wit/laravel-mysql-move-column?branch=main)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/daniel-de-wit/laravel-mysql-move-column.svg?style=flat-square&cache-control=no-cache)](https://packagist.org/packages/daniel-de-wit/laravel-mysql-move-column)
+[![Total Downloads](https://img.shields.io/packagist/dt/daniel-de-wit/laravel-mysql-move-column.svg?style=flat-square&cache-control=no-cache)](https://packagist.org/packages/daniel-de-wit/laravel-mysql-move-column)
 
 A Laravel package for simplifying rearranging MySQL database columns.
 
