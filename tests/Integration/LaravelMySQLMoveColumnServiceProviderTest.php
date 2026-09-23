@@ -9,7 +9,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Orchestra\Testbench\TestCase;
 use PHPUnit\Framework\Attributes\Test;
 
-class LaravelMySQLMoveColumnServiceProviderTest extends TestCase
+final class LaravelMySQLMoveColumnServiceProviderTest extends TestCase
 {
     /**
      * {@inheritDoc}

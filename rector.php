@@ -20,7 +20,6 @@ return static function (RectorConfig $rectorConfig): void {
     $rectorConfig->sets([
         LevelSetList::UP_TO_PHP_82,
 
-        PHPUnitSetList::PHPUNIT_100,
         PHPUnitSetList::PHPUNIT_CODE_QUALITY,
         PHPUnitSetList::ANNOTATIONS_TO_ATTRIBUTES,
 
